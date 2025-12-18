@@ -2,7 +2,7 @@
 
 A responsive signup form with real-time validation and custom branding, built for the AccioJob React project.
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./Screenshot.png)
 
 ## ✨ Features
 - **Real-time Validation:** Email format and password length checks.
